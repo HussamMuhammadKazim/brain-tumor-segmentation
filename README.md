@@ -19,6 +19,15 @@ This project is part of my Machine Learning internship and focuses on advanced m
 - **SAM2 (Segment Anything Model v2)**
 - Google Colab for experimentation
 
+---
+
+## 👨‍💻 Author
+
+Hussam Muhammad Kazim
+Aspiring ML Engineer | Internship Project | 17 y/o 🤖
+
+
+
 
 
 
